@@ -16,3 +16,7 @@
 ## Arsitektur
 
 ESP32 sebagai master, Arduino Nano sebagai sensor node via RS485
+
+## Artikel Jurnal Ilmiah
+
+https://jurnal.unismabekasi.ac.id/index.php/piksel/article/view/11507
