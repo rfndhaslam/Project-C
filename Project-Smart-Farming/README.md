@@ -20,3 +20,7 @@ ESP32 sebagai master, Arduino Nano sebagai sensor node via RS485
 ## Artikel Jurnal Ilmiah
 
 https://jurnal.unismabekasi.ac.id/index.php/piksel/article/view/11507
+
+## Tampilan ALat
+
+<img width="900" height="1600" alt="WhatsApp Image 2026-05-03 at 06 54 44" src="https://github.com/user-attachments/assets/1706021b-9da7-482f-b2aa-eb745284b636" />
